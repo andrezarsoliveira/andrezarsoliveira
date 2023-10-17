@@ -1,16 +1,29 @@
-### Hi there 👋
+
+ ### Hello everyone!
+</div>
+
+
+
 
 <!--
 **andrezarsoliveira/andrezarsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<img loading="lazy" src="https://detran.blog.br/wp-content/uploads/consulta-comunicacao-venda-DETRAN-PE-1024x1024.jpg" width="23" height="23"	/> I’m currently working at DETRAN-PE 
+
+📚💻 I’m majoring in Systems Development
+
+
+<img loading="lazy" src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-jaune.png" width="15" height="15"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="20" height="20"/>  I'm currently learning Data Science and Python 
+
+<img loading="lazy" src="https://artout.com.br/wp-content/uploads/2019/05/Tarsila-do-Amaral-1.jpg" width="22" height="22"/> I'm passionate about  art, science, japanese manga and workout
+
+
+
+<div align="center">
+  <a href="https://github.com/andrezarsoliveira">
+ <img height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezarsoliveira&layout=compact&langs_count=7&theme=dracula"/>.
+
+   
+   
+<!--
+**andrezarsoliveira/andrezarsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
