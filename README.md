@@ -8,7 +8,7 @@
 <!--
 **andrezarsoliveira/andrezarsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img loading="lazy" src="https://detran.blog.br/wp-content/uploads/consulta-comunicacao-venda-DETRAN-PE-1024x1024.jpg" width="23" height="23"	/> I’m currently working at DETRAN-PE 
+<img loading="lazy" src="https://detran.blog.br/wp-content/uploads/consulta-comunicacao-venda-DETRAN-PE-1024x1024.jpg" width="23" height="23"	/> Intern at DETRAN-PE 
 
 📚💻 I’m majoring in Systems Development
 
