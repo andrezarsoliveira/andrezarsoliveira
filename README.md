@@ -10,10 +10,10 @@
 -->
 <img loading="lazy" src="https://detran.blog.br/wp-content/uploads/consulta-comunicacao-venda-DETRAN-PE-1024x1024.jpg" width="23" height="23"	/> Intern at DETRAN-PE 
 
-📚💻 I’m majoring in Systems Development
+📚💻 Majoring in Systems Development
 
 
-<img loading="lazy" src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-jaune.png" width="15" height="15"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="20" height="20"/>  I'm currently learning Data Science and Python 
+<img loading="lazy" src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-jaune.png" width="15" height="15"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="20" height="20"/>  Currently learning Data Science and Python 
 
 <img loading="lazy" src="https://artout.com.br/wp-content/uploads/2019/05/Tarsila-do-Amaral-1.jpg" width="22" height="22"/> I'm passionate about  art, science, japanese manga and workout
 
