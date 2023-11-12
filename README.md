@@ -13,7 +13,7 @@
 📚💻 Majoring in Systems Development
 
 
-<img loading="lazy" src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-jaune.png" width="15" height="15"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="20" height="20"/>  Currently learning Data Science and Python through @Reprograma @Adatech
+<img loading="lazy" src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-jaune.png" width="15" height="15"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="20" height="20"/>  Currently learning Data Science and Python through @Reprograma @Ada Tech
 
 <img loading="lazy" src="https://artout.com.br/wp-content/uploads/2019/05/Tarsila-do-Amaral-1.jpg" width="22" height="22"/> I'm passionate about  art, science, japanese manga and workout
 
