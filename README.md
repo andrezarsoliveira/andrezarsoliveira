@@ -1,7 +1,7 @@
 
  ### Hello everyone!
 </div>
-
+```yaml
 let bio: {
     name: "Andreza Oliveira",
     nickname: "Zan",
@@ -10,9 +10,10 @@ let bio: {
     location: "Recife, Brazil",
     tools: "Python, SQL",
     professional: "Intern as Data Analyst at Detran-Pe"
-    passions: " Art, Science, Japanese Manga , Workout Training"
-}
+    passions: " Art, Science, Japanese Manga , Workout Training
 
+}
+```
 
 
 
