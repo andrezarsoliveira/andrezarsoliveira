@@ -2,10 +2,6 @@
 
  ### Hello everyone!
 
-<img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
-
-
-
 ```yaml
 let bio: {
     name: "Andreza Oliveira",
@@ -20,6 +16,7 @@ let bio: {
 }
 ```
 
+<img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
 
 
 <!--
@@ -30,7 +27,7 @@ let bio: {
 
 <div align="center">
   <a href="https://github.com/andrezarsoliveira">
- <img height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezarsoliveira&layout=compact&langs_count=7&theme=dracula"/>.
+ <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezarsoliveira&layout=compact&langs_count=7&theme=dracula"/>.
  </div>
    
    
