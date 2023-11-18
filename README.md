@@ -1,6 +1,6 @@
 
  ### Hello everyone!
-</div>
+
 ```yaml
 let bio: {
     name: "Andreza Oliveira",
@@ -26,7 +26,7 @@ let bio: {
 <div align="center">
   <a href="https://github.com/andrezarsoliveira">
  <img height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezarsoliveira&layout=compact&langs_count=7&theme=dracula"/>.
-
+ </div>
    
    
 <!--
