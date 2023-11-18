@@ -3,7 +3,7 @@
  ### Hello everyone!
 
 
-<img align="right" height="300" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
+<img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
 
 ```yaml
 let bio: {
@@ -11,9 +11,9 @@ let bio: {
     nickname: "Zan, Deza",
     majoring: "Systems Development",
     location: "Recife, Brazil",
-    tools: "Python, SQL",
+    code: "Python, SQL",
     learning tools through: "Reprograma , Ada Tech"
-    professional: "Intern as Data Analyst at "
+    professional: "Intern as Data Analyst"
     passions: "Art, Science, Japanese Manga , Workout Training"
 
 }
