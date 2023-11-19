@@ -14,7 +14,7 @@ bio = {
 }
 ```
 
-<img align="right" height="250" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HffqfqJnRrClCKHZtdmZcA.gif"/>
+<img align="right" height="220" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HffqfqJnRrClCKHZtdmZcA.gif"/>
 
 <!--
 **andrezarsoliveira/andrezarsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
