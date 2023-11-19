@@ -3,7 +3,9 @@
 
 
 
-<img align="right" height="270" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
+<img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
+
+<img align="right" height="250" src="https://66.media.tumblr.com/tumblr_ma9e64eCeq1rfjowdo1_500.gif"/>
 
 ```yaml
 hello everyone!
@@ -13,9 +15,9 @@ bio: {
     majoring: "Systems Development",
     location: "Recife, Brazil",
     code: "Python, SQL",
-    learning tools through: "Reprograma , Ada Tech"
+    learning through: "Reprograma, Ada Tech"
     professional: "Intern as Data Analyst"
-    passions: "Art, Science, Japanese Manga , Workout Training"
+    passions: "Art, Science, Japanese Manga, Workout Training"
 
 }
 ```
