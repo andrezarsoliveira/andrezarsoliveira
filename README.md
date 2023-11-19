@@ -17,7 +17,7 @@ bio = {
 <img align="right" height="250" src="https://64.media.tumblr.com/5fa0b5c639f38671ee83c407b25f6b13/tumblr_n8gb71pSid1r6zgh0o1_500.gifv"/>
 
 
-<img align="right" height="250" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
+<img align="right" height="210" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
 
 
 <img align="right" height="250" src="https://66.media.tumblr.com/08f81dcdee5a9b9a560d11b63a6a64a1/tumblr_mi1p7kAdcj1rfjowdo1_500.gif"/>
