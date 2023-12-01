@@ -19,6 +19,7 @@ bio = {
   <a href="https://github.com/andrezarsoliveira">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezarsoliveira&layout=compact&langs_count=7&theme=midnight"/>
 </div>
+
 <!--
 **andrezarsoliveira/andrezarsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
