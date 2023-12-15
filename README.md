@@ -5,7 +5,6 @@
 print("Hello everyone!")
 bio = {
     "name": "Andreza Oliveira",
-    "nickname": ["Zan", "Deza"],
     "majoring": "Systems Development",
     "location": "Recife, Brazil",
     "code": ["Python", "SQL"],
