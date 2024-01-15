@@ -10,7 +10,7 @@ bio = {
     "code": ["Python", "SQL"],
     "learning_through": ["Reprograma", "Ada Tech"],
     "professional": "Intern as Data Analyst",
-    "passions": ["Art", "Science", "Workout Training"]
+    "passions": ["Art", "Science","Japanese Manga", "Workout Training"]
 }
 ```
 
