@@ -5,18 +5,19 @@
 print("Hello everyone!")
 bio = {
     "name": "Andreza Oliveira",
+    "age": "26"
     "majoring": "Systems Development",
     "location": "Recife, Brazil",
     "code": ["Python", "SQL"],
     "learning_through": ["Reprograma", "Ada Tech"],
     "professional": "Intern as Data Analyst",
-    "passions": ["Art", "Science","Japanese Manga", "Workout Training"]
-}
-```
+    "passions": ["Surf", "Workout Training", "Art", "Science","Japanese Manga"]
+} 
+``` 
 
 <div align="center">
   <a href="https://github.com/andrezarsoliveira">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezarsoliveira&layout=compact&langs_count=7&theme=midnight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezarsoliveira&layout=compact&langs_count=7&theme=clear"/>
 </div>
 
 <!--
