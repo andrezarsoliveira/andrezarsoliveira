@@ -1,5 +1,5 @@
 
-<img align="right" height="240" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
+<img align="right" height="300" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/>
 
 ```yaml
 print("Hello everyone!")
@@ -15,10 +15,6 @@ bio = {
 } 
 ``` 
 
-<div align="center">
-  <a href="https://github.com/andrezarsoliveira">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezarsoliveira&layout=compact&langs_count=7&theme=clear"/>
-</div>
 
 <!--
 **andrezarsoliveira/andrezarsoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
