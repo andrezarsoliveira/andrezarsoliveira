@@ -14,7 +14,7 @@ bio = {
     "passions": ["Surf", "Workout Training", "Art", "Science","Japanese Manga"]
 } 
 ```
-<img align="left" height="350" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif"/> 
+
 
 
 <!--
