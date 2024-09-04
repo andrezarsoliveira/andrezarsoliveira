@@ -6,11 +6,10 @@ print("Hello everyone!")
 bio = {
     "name": "Andreza Oliveira",
     "major": ["Physical Education", "Systems Development"],
-    "location": "Recife, Brazil",
     "code": ["Python", "SQL"],
     "courses": ["Reprograma", "Ada Tech"],
-    "professional": "Intern as Data Analyst",
-    "master degree": "Sporting Perfomance and Data Science",
+    "professional": "Researcher",
+    "master degree": "Sporting Perfomance and Data Analysis",
     "passions": ["Surf", "Workout Training", "Art", "Science","Japanese Manga"]
 } 
 ```
